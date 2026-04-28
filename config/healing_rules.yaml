@@ -2,29 +2,34 @@ rules:
   - id: schema_drift_detected
     condition: schema_version_changed
     severity: high
+    diagnosis: schema_drift
     action: schema_remap
     fallback_action: escalate_to_operator
 
   - id: missing_partition
     condition: expected_partition_missing
     severity: high
+    diagnosis: partition_missing
     action: backfill_partition
     fallback_action: alert_data_engineer
 
   - id: null_spike
     condition: null_percentage_above_threshold
     severity: medium
+    diagnosis: data_quality_degradation
     action: quarantine_bad_records
     fallback_action: rerun_validation
 
   - id: runtime_spike
     condition: runtime_exceeds_baseline
     severity: medium
+    diagnosis: compute_or_dependency_issue
     action: retry_with_scaled_compute
     fallback_action: escalate_to_operator
 
   - id: source_delay
     condition: freshness_lag_exceeds_sla
     severity: high
+    diagnosis: source_delay
     action: switch_to_fallback_source
     fallback_action: notify_business_owner
