@@ -1,5 +1,10 @@
 # Self-Healing Data Pipeline Framework
 
+![Python](https://img.shields.io/badge/Python-Production-blue)
+![Reliability](https://img.shields.io/badge/DataOps-Autonomous-green)
+![Architecture](https://img.shields.io/badge/Enterprise-Ready-orange)
+![Cloud](https://img.shields.io/badge/Multi--Cloud-Ready-purple)
+
 ## Overview
 
 The Self-Healing Data Pipeline Framework is an enterprise-grade autonomous reliability system designed to detect, diagnose, and remediate failures across distributed data pipelines.
