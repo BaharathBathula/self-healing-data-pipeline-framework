@@ -1,5 +1,5 @@
 # Self-Healing Data Pipeline Framework
-
+![CI](https://github.com/BaharathBathula/self-healing-data-pipeline-framework/actions/workflows/tests.yml/badge.svg)
 ![Python](https://img.shields.io/badge/Python-Production-blue)
 ![Reliability](https://img.shields.io/badge/DataOps-Autonomous-green)
 ![Architecture](https://img.shields.io/badge/Enterprise-Ready-orange)
