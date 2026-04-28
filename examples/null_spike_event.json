@@ -1,0 +1,4 @@
+{
+  "pipeline": "customer_profile_load",
+  "condition": "null_percentage_above_threshold"
+}
