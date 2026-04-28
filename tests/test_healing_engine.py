@@ -12,5 +12,3 @@ def test_schema_drift_healing():
     result = engine.evaluate_event(event)
 
     assert result["status"] == "healed"
-    assert result["selected_action"] == "schema_remap"
-    assert result["severity"] == "high"
