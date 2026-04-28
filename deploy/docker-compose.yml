@@ -1,0 +1,7 @@
+version: "3.9"
+
+services:
+  self-healing-framework:
+    build: .
+    container_name: pipeline-framework
+    command: python examples/run_demo.py
