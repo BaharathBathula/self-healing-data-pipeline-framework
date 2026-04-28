@@ -1,0 +1,4 @@
+{
+  "pipeline": "claims_fact_pipeline",
+  "condition": "expected_partition_missing"
+}
