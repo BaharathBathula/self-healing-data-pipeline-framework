@@ -1,0 +1,4 @@
+{
+  "pipeline": "daily_policy_etl",
+  "condition": "schema_version_changed"
+}
