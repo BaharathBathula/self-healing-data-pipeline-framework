@@ -21,6 +21,12 @@ Modern data platforms frequently experience failures such as schema drift, delay
 Traditional monitoring systems only alert engineers after failures occur. This framework introduces intelligent recovery workflows that automatically restore pipeline health and reduce operational burden.
 
 ---
+
+# 📘 Technical Article
+
+Medium Article:  
+[Why Traditional Monitoring Systems Are No Longer Enough for Modern Enterprise Data Platforms](https://medium.com/@baharath.bathula/building-a-self-healing-data-pipeline-framework-for-enterprise-reliability-4bfe763fb0f6)
+
 ## Trusted Enterprise Use Cases
 
 Designed for regulated and large-scale environments including:
