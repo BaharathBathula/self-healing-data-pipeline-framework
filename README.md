@@ -79,21 +79,21 @@ Stores previous incidents and improves future recovery decisions.
 
 # 🏗️ Architecture Diagrams
 
-## Autonomous Remediation Workflow
+## Control Plane Architecture
 
-![Autonomous Remediation Workflow](architecture_autonomous-remediation-flow - visual selection.png)
+![Control Plane](architecture/control-plane-diagram.png)
 
 ---
 
 ## Reliability Scoring Flow
 
-![Reliability Scoring Flow](architecture_reliability-flow - visual selection.png)
+![Reliability Flow](architecture/reliability-flow.png)
 
 ---
 
-## Control Plane Architecture
+## Autonomous Remediation Workflow
 
-![Control Plane Architecture](- visual selection.png)
+![Remediation Flow](architecture/autonomous-remediation-flow.png)
 
 ## Business Value
 
