@@ -224,6 +224,18 @@ Sources → Ingestion → Pipeline Jobs → Telemetry Layer
 
 ---
 
+# 🎤 Presentation & Architecture Assets
+
+The repository includes presentation-ready operational intelligence materials supporting:
+
+- enterprise architecture walkthroughs
+- reliability engineering demonstrations
+- operational resilience storytelling
+- governance-aware operational intelligence
+- self-healing infrastructure concepts
+
+Presentation materials are designed for technical demonstrations and enterprise operational discussions.
+
 ## Positioning Statement
 
 The Self-Healing Data Pipeline Framework represents an original contribution to autonomous data reliability engineering by combining telemetry, metadata lineage, diagnosis logic, and automated remediation into a unified control plane.
