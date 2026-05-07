@@ -114,6 +114,19 @@ The repository includes simulated operational artifacts demonstrating:
 - governance-aware operational resilience
 - operational telemetry workflows
 
+# 🖼️ Operational Visualization Assets
+
+The repository includes operational intelligence visualization assets representing:
+
+- reliability trend analysis
+- SLA recovery behavior
+- incident heatmaps
+- operational dashboard concepts
+- autonomous remediation workflows
+- enterprise telemetry monitoring
+
+These artifacts simulate enterprise operational intelligence workflows for distributed cloud-native systems.
+
 ## Example Operational Metrics
 
 | Metric | Value |
