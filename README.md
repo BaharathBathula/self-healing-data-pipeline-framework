@@ -10,6 +10,8 @@
 ![Reliability](https://img.shields.io/badge/reliability-autonomous-success)
 ![License](https://img.shields.io/badge/license-MIT-green)
 
+> Autonomous reliability engineering framework for self-healing enterprise data pipelines, SLA-aware orchestration, and governance-driven operational resilience.
+
 ## Overview
 
 The Self-Healing Data Pipeline Framework is an enterprise-grade autonomous reliability system designed to detect, diagnose, and remediate failures across distributed data pipelines.
