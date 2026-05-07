@@ -1,0 +1,9 @@
+{
+  "incident_id": "INC-2041",
+  "pipeline": "fraud_detection_stream",
+  "failure_type": "SLA_BREACH",
+  "severity": "CRITICAL",
+  "action_taken": "AUTO_RESTART_EXECUTED",
+  "recovery_status": "SUCCESS",
+  "recovery_time": "2 minutes"
+}
