@@ -1,0 +1,23 @@
+pipeline_name: transactions_stream
+
+sla:
+  threshold_minutes: 5
+  escalation_policy: critical
+
+quality_checks:
+  - schema_validation
+  - null_threshold
+  - anomaly_detection
+  - duplicate_detection
+
+recovery:
+  auto_restart: true
+  retry_attempts: 3
+  rollback_enabled: true
+
+governance:
+  compliance_validation: true
+  lineage_tracking: true
+
+reliability_scoring:
+  enabled: true
