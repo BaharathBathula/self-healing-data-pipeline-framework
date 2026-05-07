@@ -1,20 +1,15 @@
-# Product Roadmap
+# Roadmap
 
-## Q1
-- Rule-based healing engine
-- Incident audit logging
-- YAML remediation policies
+## Upcoming Enhancements
 
-## Q2
-- ML failure prediction
-- Dynamic remediation ranking
-- Slack / Teams alerts
+- AI-driven anomaly detection
+- Predictive SLA breach forecasting
+- Reinforcement-learning-based remediation
+- Adaptive reliability orchestration
+- Real-time operational intelligence dashboards
+- Multi-region reliability coordination
+- Autonomous workload balancing
 
-## Q3
-- Multi-tenant SaaS control plane
-- Customer dashboards
-- Enterprise RBAC
+## Long-Term Vision
 
-## Q4
-- GenAI root cause assistant
-- Natural language operations console
+Build a fully autonomous enterprise reliability engineering platform for AI-native distributed systems.
