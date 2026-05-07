@@ -4,6 +4,11 @@
 ![Reliability](https://img.shields.io/badge/DataOps-Autonomous-green)
 ![Architecture](https://img.shields.io/badge/Enterprise-Ready-orange)
 ![Cloud](https://img.shields.io/badge/Multi--Cloud-Ready-purple)
+![Status](https://img.shields.io/badge/status-active-brightgreen)
+![Architecture](https://img.shields.io/badge/architecture-control--plane-blue)
+![Focus](https://img.shields.io/badge/focus-self--healing-orange)
+![Reliability](https://img.shields.io/badge/reliability-autonomous-success)
+![License](https://img.shields.io/badge/license-MIT-green)
 
 ## Overview
 
