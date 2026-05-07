@@ -1,0 +1,6 @@
+service,incident_count
+fraud_detection_stream,4
+claims_ingestion,7
+policy_analytics,2
+customer_360_pipeline,3
+realtime_scoring,5
