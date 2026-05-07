@@ -104,6 +104,29 @@ Stores previous incidents and improves future recovery decisions.
 
 ---
 
+# 📊 Operational Reliability Simulation
+
+The repository includes simulated operational artifacts demonstrating:
+
+- reliability scoring
+- autonomous remediation
+- SLA-aware orchestration
+- governance-aware operational resilience
+- operational telemetry workflows
+
+## Example Operational Metrics
+
+| Metric | Value |
+|--------|------|
+| Reliability Score | 91 |
+| SLA Compliance | 96% |
+| Recovery Success Rate | 95% |
+| Active Incidents | 2 |
+
+## Simulated Operational Workflow
+
+Failure Detection → Reliability Evaluation → Autonomous Remediation → Governance Validation → Operational Recovery
+
 ## Autonomous Remediation Workflow
 
 ![Remediation Flow](architecture/autonomous-remediation-flow.png)
