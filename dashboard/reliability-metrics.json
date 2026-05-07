@@ -1,0 +1,10 @@
+{
+  "pipeline": "fraud_detection_stream",
+  "sla_compliance": 96,
+  "reliability_score": 91,
+  "latency_ms": 184,
+  "anomaly_count": 2,
+  "recovery_success_rate": 95,
+  "governance_validation": "PASS",
+  "system_status": "HEALTHY"
+}
