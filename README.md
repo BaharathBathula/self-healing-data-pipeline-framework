@@ -77,6 +77,24 @@ Stores previous incidents and improves future recovery decisions.
 
 ---
 
+# 🏗️ Architecture Diagrams
+
+## Autonomous Remediation Workflow
+
+![Autonomous Remediation Workflow](architecture_autonomous-remediation-flow - visual selection.png)
+
+---
+
+## Reliability Scoring Flow
+
+![Reliability Scoring Flow](architecture_reliability-flow - visual selection.png)
+
+---
+
+## Control Plane Architecture
+
+![Control Plane Architecture](- visual selection.png)
+
 ## Business Value
 
 - Reduce downtime
