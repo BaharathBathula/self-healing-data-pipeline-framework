@@ -1,0 +1,10 @@
+{
+  "pipeline": "transactions_stream",
+  "sla_score": 92,
+  "quality_score": 88,
+  "stability_score": 95,
+  "recovery_score": 91,
+  "freshness_score": 89,
+  "overall_reliability_score": 91,
+  "status": "Highly Reliable"
+}
