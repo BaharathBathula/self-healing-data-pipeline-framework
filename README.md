@@ -124,14 +124,11 @@ The repository includes operational intelligence visualization assets representi
 
 These artifacts simulate enterprise operational intelligence workflows for distributed cloud-native systems.
 
-## Example Operational Metrics
+## Benchmark Status
 
-| Metric | Value |
-|--------|------|
-| Reliability Score | 91 |
-| SLA Compliance | 96% |
-| Recovery Success Rate | 95% |
-| Active Incidents | 2 |
+Benchmark evidence is being audited for reproducibility and claim-to-artifact traceability. Only results supported by versioned source code, fixed configurations, raw trial records, and reproducible analysis scripts will be reported as experimental findings.
+
+Illustrative dashboard values and conceptual visualizations must not be interpreted as independently validated operational performance.
 
 ## Simulated Operational Workflow
 
