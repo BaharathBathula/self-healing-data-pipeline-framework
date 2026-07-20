@@ -1,13 +1,8 @@
 # Self-Healing Data Pipeline Framework
 ![CI](https://github.com/BaharathBathula/self-healing-data-pipeline-framework/actions/workflows/tests.yml/badge.svg)
-![Python](https://img.shields.io/badge/Python-Production-blue)
-![Reliability](https://img.shields.io/badge/DataOps-Autonomous-green)
-![Architecture](https://img.shields.io/badge/Enterprise-Ready-orange)
-![Cloud](https://img.shields.io/badge/Multi--Cloud-Ready-purple)
 ![Status](https://img.shields.io/badge/status-active-brightgreen)
 ![Architecture](https://img.shields.io/badge/architecture-control--plane-blue)
 ![Focus](https://img.shields.io/badge/focus-self--healing-orange)
-![Reliability](https://img.shields.io/badge/reliability-autonomous-success)
 ![License](https://img.shields.io/badge/license-MIT-green)
 
 > Autonomous reliability engineering framework for self-healing enterprise data pipelines, SLA-aware orchestration, and governance-driven operational resilience.
