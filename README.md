@@ -232,13 +232,24 @@ Presentation materials are designed for technical demonstrations and enterprise 
 
 ## Positioning Statement
 
-The Self-Healing Data Pipeline Framework represents an original contribution to autonomous data reliability engineering by combining telemetry, metadata lineage, diagnosis logic, and automated remediation into a unified control plane.
+The framework investigates whether telemetry, diagnosis logic, policy-constrained remediation, post-recovery validation, escalation, and evidence preservation can be integrated into a measurable reliability-control plane for data pipelines.
+
+Claims regarding originality, comparative advantages, and field significance require evaluation against prior work and independent technical validation.
 
 ## Market Opportunity
 
 Modern enterprises lose time and revenue from broken pipelines, stale data, and manual remediation. Self-healing data reliability systems reduce operational burden and improve decision speed.
 
 ---
+
+## Evidence Limitations
+
+- Current evaluations use controlled synthetic scenarios.
+- The repository does not presently claim production deployment or broad industry adoption.
+- Illustrative visualizations are not production telemetry.
+- Business-value statements describe potential benefits rather than independently verified outcomes.
+- External replication and operational pilot validation are planned.
+- Future independent evaluation findings will be documented separately from author-generated experiments.
 
 ## Author
 
