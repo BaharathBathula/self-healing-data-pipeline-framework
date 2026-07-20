@@ -9,11 +9,13 @@
 
 ## Overview
 
-The Self-Healing Data Pipeline Framework is an enterprise-grade autonomous reliability system designed to detect, diagnose, and remediate failures across distributed data pipelines.
+The Self-Healing Data Pipeline Framework is an open-source research prototype for studying reliability-aware recovery workflows in data pipelines.
 
-Modern data platforms frequently experience failures such as schema drift, delayed source feeds, null spikes, missing partitions, dependency issues, compute exhaustion, and SLA breaches.
+The framework evaluates a staged incident-response process consisting of telemetry collection, failure detection, root-cause classification, remediation selection, policy authorization, remediation execution, post-recovery validation, rollback or escalation, and incident-evidence preservation.
 
-Traditional monitoring systems only alert engineers after failures occur. This framework introduces intelligent recovery workflows that automatically restore pipeline health and reduce operational burden.
+A remediation attempt is not classified as a successful recovery unless the action is permitted by policy, executed successfully, and validated against defined post-recovery conditions.
+
+The current implementation and reported findings are based on controlled synthetic experiments. They must not be interpreted as production performance, commercial deployment, broad industry adoption, or guaranteed operational improvement.
 
 ---
 
