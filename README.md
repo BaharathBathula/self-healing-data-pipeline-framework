@@ -5,7 +5,7 @@
 ![Focus](https://img.shields.io/badge/focus-self--healing-orange)
 ![License](https://img.shields.io/badge/license-MIT-green)
 
-> Autonomous reliability engineering framework for self-healing enterprise data pipelines, SLA-aware orchestration, and governance-driven operational resilience.
+> Open-source research prototype for evaluating policy-constrained failure detection, diagnosis, remediation, post-recovery validation, and escalation workflows in data pipelines.
 
 ## Overview
 
